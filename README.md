@@ -8,7 +8,7 @@
 ### Experience
 
 - 🎓 Soongsil University(School of AI Convergence (2016.03~ )
-- <img src="https://user-images.githubusercontent.com/26451560/145569350-ee289ded-e7d2-4ab0-a847-589b2838fc94.png" height="20">Youth Employment Academy(Responsive Web Programming Expert Course Using Java Algorithm), multicampus (2020.12 ~ 2021.02)
+- <img src="https://user-images.githubusercontent.com/26451560/145569350-ee289ded-e7d2-4ab0-a847-589b2838fc94.png" height="10">Youth Employment Academy(Responsive Web Programming Expert Course Using Java Algorithm), multicampus (2020.12 ~ 2021.02)
 - <img src="https://user-images.githubusercontent.com/26451560/145567983-33b457e9-60eb-45eb-bb7a-098b5e8e09f5.png" height="20"> SSAFY(Samsung SW Academy For Youth) 6th, Student of Mobile Track (2021.07 ~ 2021.10)
 https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white
 
