@@ -9,7 +9,7 @@
 
 - 🎓 Soongsil University(School of AI Convergence (2016.03~ )
 - <img src="https://user-images.githubusercontent.com/26451560/145569350-ee289ded-e7d2-4ab0-a847-589b2838fc94.png" height="10"> Youth Employment Academy(Responsive Web Programming Expert Course Using Java Algorithm), multicampus (2020.12 ~ 2021.02)
-- <img src="https://user-images.githubusercontent.com/26451560/145567983-33b457e9-60eb-45eb-bb7a-098b5e8e09f5.png" height="20"> SSAFY(Samsung SW Academy For Youth) 6th, Student of Mobile Track (2021.07 ~ 2021.10)
+- <img src="https://user-images.githubusercontent.com/26451560/145665078-fa915e39-c43f-472c-9e05-bfac972e5525.png" height="20"> SSAFY(Samsung SW Academy For Youth) 6th, Student of Mobile Track (2021.07 ~ 2021.10)
 
 
  ### 🔨**Stack**⛏  
@@ -30,8 +30,7 @@
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white) 
   
 ##### IDE  
-  <img src="https://img.shields.io/badge/Android Studio-42A666?style=flat-square&logo=Android&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=vsCode&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Android Studio-42A666?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=vsCode&logoColor=white"/>  
   
 ##### LANGUAGE  
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>  
